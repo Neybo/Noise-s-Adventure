@@ -34,15 +34,16 @@ if place_meeting(x, y+vsp, obj_solid) {
 
 y = y + vsp;
 #endregion
-show_debug_message(string(noisesndtype))
+show_debug_message("{ ", string(noisesndtype) + ", " + string(pogotime) + "}")
 
 if place_meeting(x, y+1, obj_solid) and key_jump 
 	vsp = -10;
 if place_meeting(x, y+1, obj_solid) and key_pogo {
+	if place_meeting(x, y+1, obj_solid) pogotime++
 	sprite_index = spr_noise_pogo;
 	vsp = -12;
 }
-if !key_pogo sprite_index = spr_noise_idle;
+if !key_pogo {sprite_index = spr_noise_idle; pogotime = 0
 if key_spin {
 	sprite_index = spr_noise_spin;
 	mvspd = 8;

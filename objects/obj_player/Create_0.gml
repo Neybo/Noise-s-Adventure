@@ -3,7 +3,8 @@ hsp = 0;
 vsp = 0;
 grv = 0.5;
 mvspd = 4;
-#macro POGOMAX 3
+#macro POGOMAX 5
+pogotime = 0
 hallwayent = 0
 depth = -1
 noisesndtype = -4
