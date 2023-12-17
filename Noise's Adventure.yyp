@@ -28,7 +28,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Pepperoni-Regular.ttf","CopyToMask":3035426170322551022,"filePath":"datafiles",},
+  ],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
@@ -37,6 +39,9 @@
   "resources": [
     {"id":{"name":"spr_solid","path":"sprites/spr_solid/spr_solid.yy",},},
     {"id":{"name":"spr_noise_skate1","path":"sprites/spr_noise_skate1/spr_noise_skate1.yy",},},
+    {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
+    {"id":{"name":"fnt_temp","path":"fonts/fnt_temp/fnt_temp.yy",},},
+    {"id":{"name":"sfx_breakblock2","path":"sounds/sfx_breakblock2/sfx_breakblock2.yy",},},
     {"id":{"name":"spr_win","path":"sprites/spr_win/spr_win.yy",},},
     {"id":{"name":"spr_platf","path":"sprites/spr_platf/spr_platf.yy",},},
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
@@ -46,11 +51,16 @@
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"obj_poA","path":"objects/obj_poA/obj_poA.yy",},},
     {"id":{"name":"obj_parrallax","path":"objects/obj_parrallax/obj_parrallax.yy",},},
+    {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
+    {"id":{"name":"sfx_spin","path":"sounds/sfx_spin/sfx_spin.yy",},},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"bg_temp","path":"sprites/bg_temp/bg_temp.yy",},},
     {"id":{"name":"spr_noise_spin","path":"sprites/spr_noise_spin/spr_noise_spin.yy",},},
+    {"id":{"name":"scr_blocksfunc","path":"scripts/scr_blocksfunc/scr_blocksfunc.yy",},},
+    {"id":{"name":"sfx_breakblock1","path":"sounds/sfx_breakblock1/sfx_breakblock1.yy",},},
     {"id":{"name":"spr_noise_idle","path":"sprites/spr_noise_idle/spr_noise_idle.yy",},},
+    {"id":{"name":"spr_noise_slam","path":"sprites/spr_noise_slam/spr_noise_slam.yy",},},
     {"id":{"name":"hub_1","path":"rooms/hub_1/hub_1.yy",},},
   ],
   "RoomOrderNodes": [
