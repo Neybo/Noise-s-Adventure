@@ -8,7 +8,7 @@ pogotime = 0
 hallwayent = 0
 depth = -1
 noisesndtype = -4
-
+global.coin = 0
 
 
 

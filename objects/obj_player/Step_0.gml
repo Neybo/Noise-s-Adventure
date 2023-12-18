@@ -40,7 +40,6 @@ scr_dest_blocks()
 if keyboard_check(vk_escape) game_restart()
 if place_meeting(x, y+1, obj_solid) and key_jump  {
 	sprite_index = spr_noise_jump
-	image_index = 0
 	vsp = -10;
 }
 if place_meeting(x, y+1, obj_solid) and key_pogo {
@@ -50,12 +49,12 @@ if place_meeting(x, y+1, obj_solid) and key_pogo {
 	mvspd = 10
 }
 
-if !key_pogo or place_meeting(x, y+1, obj_solid) and input_slam == 1 {sprite_index = spr_noise_idle; pogotime = 0; input_slam = 0}
+if !key_pogo or place_meeting(x, y+1, obj_solid) and input_slam == 1 {sprite_index = spr_noise_idle; pogotime = 0; input_slam = 0; mvspd = 4}
 if key_spin  {
 	 sprite_index = spr_noise_spin;
 	 if !audio_is_playing(sfx_spin) audio_play_sound(sfx_spin, 1, false)
 	mvspd = 8;
-} else mvspd = 4
+} 
 if !place_meeting(x, y+1, obj_solid) && key_down input_slam = 1
 if input_slam == 1 {
 	sprite_index = spr_noise_slam

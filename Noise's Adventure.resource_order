@@ -26,6 +26,7 @@
     {"name":"obj_door","order":6,"path":"objects/obj_door/obj_door.yy",},
     {"name":"spr_noise_pogo","order":1,"path":"sprites/spr_noise_pogo/spr_noise_pogo.yy",},
     {"name":"obj_win","order":5,"path":"objects/obj_win/obj_win.yy",},
+    {"name":"obj_collect","order":9,"path":"objects/obj_collect/obj_collect.yy",},
     {"name":"rm_test2","order":1,"path":"rooms/rm_test2/rm_test2.yy",},
     {"name":"spr_door","order":5,"path":"sprites/spr_door/spr_door.yy",},
     {"name":"spr_noise_jump","order":4,"path":"sprites/spr_noise_jump/spr_noise_jump.yy",},

@@ -47,6 +47,7 @@
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"spr_noise_pogo","path":"sprites/spr_noise_pogo/spr_noise_pogo.yy",},},
     {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},},
+    {"id":{"name":"obj_collect","path":"objects/obj_collect/obj_collect.yy",},},
     {"id":{"name":"rm_test2","path":"rooms/rm_test2/rm_test2.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_noise_jump","path":"sprites/spr_noise_jump/spr_noise_jump.yy",},},
