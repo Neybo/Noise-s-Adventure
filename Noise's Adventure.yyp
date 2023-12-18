@@ -49,6 +49,7 @@
     {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},},
     {"id":{"name":"rm_test2","path":"rooms/rm_test2/rm_test2.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
+    {"id":{"name":"spr_noise_jump","path":"sprites/spr_noise_jump/spr_noise_jump.yy",},},
     {"id":{"name":"obj_poA","path":"objects/obj_poA/obj_poA.yy",},},
     {"id":{"name":"obj_parrallax","path":"objects/obj_parrallax/obj_parrallax.yy",},},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},

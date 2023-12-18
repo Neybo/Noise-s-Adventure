@@ -28,6 +28,7 @@
     {"name":"obj_win","order":5,"path":"objects/obj_win/obj_win.yy",},
     {"name":"rm_test2","order":1,"path":"rooms/rm_test2/rm_test2.yy",},
     {"name":"spr_door","order":5,"path":"sprites/spr_door/spr_door.yy",},
+    {"name":"spr_noise_jump","order":4,"path":"sprites/spr_noise_jump/spr_noise_jump.yy",},
     {"name":"obj_poA","order":7,"path":"objects/obj_poA/obj_poA.yy",},
     {"name":"obj_parrallax","order":4,"path":"objects/obj_parrallax/obj_parrallax.yy",},
     {"name":"obj_block","order":8,"path":"objects/obj_block/obj_block.yy",},
@@ -36,6 +37,6 @@
     {"name":"obj_player","order":3,"path":"objects/obj_player/obj_player.yy",},
     {"name":"bg_temp","order":4,"path":"sprites/bg_temp/bg_temp.yy",},
     {"name":"spr_noise_idle","order":2,"path":"sprites/spr_noise_idle/spr_noise_idle.yy",},
-    {"name":"spr_noise_slam","order":16,"path":"sprites/spr_noise_slam/spr_noise_slam.yy",},
+    {"name":"spr_noise_slam","order":5,"path":"sprites/spr_noise_slam/spr_noise_slam.yy",},
   ],
 }

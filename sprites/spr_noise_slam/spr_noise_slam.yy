@@ -27,8 +27,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Noise's Adventure",
-    "path": "Noise's Adventure.yyp",
+    "name": "Noise",
+    "path": "folders/Sprites/Noise.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
