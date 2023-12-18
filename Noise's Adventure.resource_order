@@ -20,12 +20,12 @@
   "ResourceOrderSettings": [
     {"name":"spr_noise_skate1","order":3,"path":"sprites/spr_noise_skate1/spr_noise_skate1.yy",},
     {"name":"spr_block","order":6,"path":"sprites/spr_block/spr_block.yy",},
+    {"name":"sfx_collect","order":16,"path":"sounds/sfx_collect/sfx_collect.yy",},
     {"name":"sfx_breakblock2","order":1,"path":"sounds/sfx_breakblock2/sfx_breakblock2.yy",},
     {"name":"spr_win","order":2,"path":"sprites/spr_win/spr_win.yy",},
     {"name":"spr_platf","order":1,"path":"sprites/spr_platf/spr_platf.yy",},
     {"name":"obj_door","order":6,"path":"objects/obj_door/obj_door.yy",},
     {"name":"spr_noise_pogo","order":1,"path":"sprites/spr_noise_pogo/spr_noise_pogo.yy",},
-    {"name":"obj_win","order":5,"path":"objects/obj_win/obj_win.yy",},
     {"name":"obj_collect","order":9,"path":"objects/obj_collect/obj_collect.yy",},
     {"name":"rm_test2","order":1,"path":"rooms/rm_test2/rm_test2.yy",},
     {"name":"spr_door","order":5,"path":"sprites/spr_door/spr_door.yy",},
